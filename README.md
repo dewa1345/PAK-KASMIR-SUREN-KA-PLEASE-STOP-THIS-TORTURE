@@ -5,8 +5,9 @@ from the image thanks to it i could learn how to acces index and also how to cha
 ### i tried to learn about it a bit and experiment in viscode with mix it with scanner
 ![Image](https://github.com/user-attachments/assets/5586ab3f-6fc9-4a30-9892-8b16824aed16)
 
-Credits
-Pak kasmir syariati for the e-learn
-ChatGPT for setting up function and Quite tons of the code
 ## and this is also the code i've tried about how linked list work huge thanks for the chatGPT for this one
 ![Image](https://github.com/user-attachments/assets/5dee9fe1-3888-436c-aac1-8e6809fdd5fa)
+
+# Credits
+## Pak kasmir syariati for the e-learn
+## ChatGPT for setting up function and Quite tons of the code
