@@ -10,5 +10,5 @@ from the image thanks to it i could learn how to acces index and also how to cha
 
 # Credits
 - Pak kasmir syariati for the e-learn
-- ChatGPT for setting up function and Quite tons of the code
+- ChatGPT for setting up function and Quite big chunk of the code
 - https://www.geeksforgeeks.org/singly-linked-list-tutorial/
