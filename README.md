@@ -9,5 +9,6 @@ from the image thanks to it i could learn how to acces index and also how to cha
 ![Image](https://github.com/user-attachments/assets/5dee9fe1-3888-436c-aac1-8e6809fdd5fa)
 
 # Credits
-## Pak kasmir syariati for the e-learn
-## ChatGPT for setting up function and Quite tons of the code
+ Pak kasmir syariati for the e-learn
+ ChatGPT for setting up function and Quite tons of the code
+https://www.geeksforgeeks.org/singly-linked-list-tutorial/
